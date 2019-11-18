@@ -1,0 +1,7 @@
+C:\Users\I\Desktop\Bankomatas\Bankomatas\bin\Debug\Bankomatas.exe.config
+C:\Users\I\Desktop\Bankomatas\Bankomatas\bin\Debug\Bankomatas.exe
+C:\Users\I\Desktop\Bankomatas\Bankomatas\bin\Debug\Bankomatas.pdb
+C:\Users\I\Desktop\Bankomatas\Bankomatas\obj\Debug\Bankomatas.csprojAssemblyReference.cache
+C:\Users\I\Desktop\Bankomatas\Bankomatas\obj\Debug\Bankomatas.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Bankomatas\Bankomatas\obj\Debug\Bankomatas.exe
+C:\Users\I\Desktop\Bankomatas\Bankomatas\obj\Debug\Bankomatas.pdb
